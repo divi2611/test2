@@ -1,0 +1,3 @@
+[submodule "demo/ai-avatar_Main"]
+    path = demo/ai-avatar_Main
+    url = https://github.com/divi2611/test2.git
